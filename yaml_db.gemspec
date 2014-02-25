@@ -17,10 +17,10 @@ Any database that has an ActiveRecord adapter should work
 }
   s.email = %q{nate@ludicast.com}
   s.extra_rdoc_files = [
-    "README"
+    "README.markdown"
   ]
   s.files = [
-    "README",
+    "README.markdown",
      "Rakefile",
      "VERSION",
      "about.yml",
